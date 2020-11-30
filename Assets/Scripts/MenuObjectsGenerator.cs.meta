@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 3f580b642f7f3409abcb5f2dd032d0f7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - asphaltTile: {fileID: 5954432881565439291, guid: eed76bd0095e44c6db320365f20eaa27,
+      type: 3}
+  - snowTile: {fileID: 9055148486853975304, guid: 60eeb98f3d1004edda37102aaede5a11,
+      type: 3}
+  - soilTile: {fileID: 3701608160884440777, guid: 2f164a6de5b034c408562aac73194e59,
+      type: 3}
+  - house: {instanceID: 0}
+  - house2: {instanceID: 0}
+  - house3: {instanceID: 0}
+  - house4: {instanceID: 0}
+  - house5: {instanceID: 0}
+  - house6: {instanceID: 0}
+  - house7: {instanceID: 0}
+  executionOrder: 300
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
